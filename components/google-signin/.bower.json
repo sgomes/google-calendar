@@ -1,0 +1,17 @@
+{
+  "name": "google-signin",
+  "version": "0.0.5",
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  },
+  "homepage": "https://github.com/addyosmani/google-signin",
+  "_release": "0.0.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.5",
+    "commit": "1ecfc6eac70988d40e8ed63bf1cd330505fe52b6"
+  },
+  "_source": "git://github.com/addyosmani/google-signin.git",
+  "_target": "*",
+  "_originalSource": "addyosmani/google-signin"
+}
